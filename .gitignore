@@ -1,0 +1,10 @@
+# .terraform dirs
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# IDE
+.vscode
+Footer
